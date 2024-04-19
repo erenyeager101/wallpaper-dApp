@@ -1,0 +1,13 @@
+[package]
+name = "wallpaper-contract"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ink_lang = "3.0.0"
+ink_storage = "3.0.0"
+ink_core = "3.0.0"
+ink_env = "3.0.0"
+scale = "0.4.1"
+scale = "0.1.0"
+
